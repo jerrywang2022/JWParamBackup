@@ -1,0 +1,31 @@
+{
+    "NLYeting":{
+        "updateUrl": "",
+        "review":"NO",
+        "updateTitle":"",
+        "downloadSwitch":"YES",
+        "scanCode": "https://image.ibb.co/bLfxEw/fm.jpg",
+        "rateUrl": "",
+        "channelsInfo":[{
+                "channelId":"3062741",
+                "title":"夜听",
+                "avatar":"http://fdfs.xmcdn.com/group25/M04/31/9F/wKgJNlgjN2XSjWmhAABAJIv6THE924_mobile_large.jpg",
+                "albumScanAvatar":"https://image.ibb.co/hZNdWJ/yeting.jpg",
+                "albumScanCode":"123",
+                "albumScanWord":"请关注公众号<夜听治愈听> 输入<验证>解锁夜听节目验证码",
+                },
+                {
+                "channelId":"321787",
+                "title":"一个人听",
+                "avatar":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+                "albumScanAvatar":"https://image.ibb.co/dojqZw/yigeren.jpg",
+                "albumScanCode":"456",
+                "albumScanWord":"请关注公众号<一个人治愈听>输入<验证>解锁一个人听节目验证码",
+                }],
+    },
+}
+
+
+
+
+

@@ -1,0 +1,31 @@
+{
+    "GCShidian":{
+        "updateUrl": "",
+        "review":"NO",
+        "updateTitle":"",
+        "downloadSwitch":"NO",
+        "scanCode": "",
+        "rateUrl": "",
+        "channelsInfo":[{
+                "channelId":"6729285",
+                "title":"朗读者",
+                "avatar":"http://fdfs.xmcdn.com/group44/M06/89/63/wKgKjFsIAWLQ2oMWAACP61Demw4176.jpg",
+                "albumScanAvatar":"",
+                "albumScanCode":"",
+                "albumScanWord":"",
+                },
+                {
+                "channelId":"15291104",
+                "title":"朗读者二",
+                "avatar":"http://fdfs.xmcdn.com/group44/M06/89/63/wKgKjFsIAWLQ2oMWAACP61Demw4176.jpg",
+                "albumScanAvatar":"",
+                "albumScanCode":"",
+                "albumScanWord":"",
+                }],
+    },
+}
+
+
+
+
+

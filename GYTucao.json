@@ -1,0 +1,28 @@
+{
+    "albumIds":[{
+            "albumId":"211742",
+            "albumName":"吐槽Talk Show",
+            "albumDesc":"吐槽，让大家更快乐",
+            "imageUrl":"http://fdfs.xmcdn.com/group25/M0A/9E/64/wKgJNlh82gaikTSxAAIBwYtK7bQ331_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"",
+            "mpWord":"",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"喜马拉雅FM",
+            "appImageUrl":"http://is2.mzstatic.com/image/thumb/Purple118/v4/41/d2/25/41d225e2-6bc1-ff34-b814-5161433381b5/source/200x200bb.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838",
+            "desc":"最大的有声图书馆",
+            },
+            {
+            "appName":"荔枝FM",
+            "appImageUrl":"http://is1.mzstatic.com/image/thumb/Purple118/v4/85/48/53/85485383-ddde-d9e9-18fa-ee91fa835c1d/source/200x200bb.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id1093693053",
+            "desc":"人人都是主播",
+            },
+            ],
+}
+
+
+

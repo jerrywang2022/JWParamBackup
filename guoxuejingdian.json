@@ -1,0 +1,36 @@
+{
+    "albumIds":[{
+            "albumId":"363823",
+            "albumName":"论语解读",
+            "albumDesc":"论语经典解读",
+            "imageUrl":"http://fdfs.xmcdn.com/group6/M00/B9/58/wKgDg1UOoBTwuw3vAAAzjycc-04930_large_pop.jpg",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"012345",
+            "mpWord":"测试",
+            },
+            {
+            "albumId":"11764088",
+            "albumName":"四书五经",
+            "albumDesc":"四书五经解读",
+            "imageUrl":"http://fdfs.xmcdn.com/group35/M02/5B/4B/wKgJnVoakXTiJtxfAACa1_9Yc1c922_large_pop.jpg",
+            "mpUrl":"https://wmpics.pics/di-7QSW.jpg",
+            "mpPassword":"123450",
+            "mpWord":"测试",
+            },
+            {
+            "albumId":"220563",
+            "albumName":"史记",
+            "albumDesc":"史记解读",
+            "imageUrl":"http://fdfs.xmcdn.com/group9/M06/E1/DA/wKgDZlaRkUGjCSn6AAPY_L4GiAw053_large_pop.jpg",
+            "mpUrl":"https://wmpics.pics/di-7QSW.jpg",
+            "mpPassword":"123450",
+            "mpWord":"测试",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"夜听",
+            "appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",
+            "desc":"最好玩的app",
+            }],
+}

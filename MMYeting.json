@@ -1,0 +1,37 @@
+{
+    "albumIds":[{
+            "albumId":"3062741",
+            "albumName":"夜听",
+            "albumDesc":"夜听，让更多的家庭越来越幸福",
+            "imageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/hZNdWJ/yeting.jpg",
+            "mpPassword":"123",
+            "mpWord":"请关注公众号<夜听治愈听> 输入<验证>解锁夜听节目验证码",
+            },
+            {
+            "albumId":"321787",
+            "albumName":"一个人听",
+            "albumDesc":"素未谋面，谢谢你，愿意听我",
+            "imageUrl":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/dojqZw/yigeren.jpg",
+            "mpPassword":"",
+            "mpWord":"请关注公众号<一个人治愈听>输入<验证>解锁一个人听节目验证码",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"程一电台",
+            "appImageUrl":"https://image.ibb.co/ifTtJb/2018_01_23_6_43_56.png",
+            "appUrl":"https://itunes.apple.com/cn/app/id1333043084?mt=8",
+            "desc":"程一电台，用声音温暖每个有你的夜晚，在你耳边伴你入眠",
+            },
+            {
+            "appName":"每天听本书",
+            "appImageUrl":"https://image.ibb.co/hM6Krw/2018_01_23_6_48_42.png",
+            "appUrl":"https://itunes.apple.com/cn/app/id1332584554",
+            "desc":"每晚，畅听365本好书",
+            },
+            ],
+}
+
+
+

@@ -1,0 +1,33 @@
+{
+    "GCShidian":{
+        "updateUrl": "",
+        "review":"NO",
+        "updateTitle":"",
+        "version":"1.1.0",
+        "downloadSwitch":"NO",
+        "scanCode": "https://image.ibb.co/hugC3d/wuyeqingting.jpg",
+        "rateUrl": "",
+        "iapSwitch":"NO",
+        "channelsInfo":[{
+                "channelId":"3062741",
+                "title":"夜听",
+                "avatar":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+                "albumScanAvatar":"https://image.ibb.co/hugC3d/wuyeqingting.jpg",
+                "albumScanCode":"123",
+                "albumScanWord":"请关注公众号<午夜倾听FM> 输入<验证>解锁夜听节目验证码",
+                },
+                {
+                "channelId":"321787",
+                "title":"一个人听",
+                "avatar":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+                "albumScanAvatar":"https://image.ibb.co/dojqZw/yigeren.jpg",
+                "albumScanCode":"456",
+                "albumScanWord":"请关注公众号<蕊希一个人听>输入<验证>解锁一个人听节目验证码",
+                }],
+    },
+}
+
+
+
+
+

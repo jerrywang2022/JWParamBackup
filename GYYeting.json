@@ -1,0 +1,64 @@
+{
+    "albumIds":[{
+            "albumId":"3062741",
+            "albumName":"夜听",
+            "albumDesc":"夜听，让更多的家庭越来越幸福",
+            "imageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"123",
+            "mpWord":"请关注公众号<夜听治愈听> 输入<验证>解锁夜听节目验证码",
+            },
+            {
+            "albumId":"321787",
+            "albumName":"一个人听",
+            "albumDesc":"素未谋面，谢谢你，愿意听我",
+            "imageUrl":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+            "mpUrl":"https://wmpics.pics/di-7QSW.jpg",
+            "mpPassword":"456",
+            "mpWord":"请关注公众号<一个人治愈听> 输入<验证>解锁夜听节目验证码",
+            },
+            {
+            "albumId":"3048185",
+            "albumName":"每天听本书",
+            "albumDesc":"每天听本书，畅听千本好书",
+            "imageUrl":"http://fdfs.xmcdn.com/group12/M09/DF/6D/wKgDXFaOQMiSbZvsAAEABdCdw8w828.jpg",
+            "mpUrl":"",
+            "mpPassword":"",
+            "mpWord":"",
+            },
+            {
+            "albumId":"265897",
+            "albumName":"十点读书",
+            "albumDesc":"深夜十点，抚慰疲惫的心灵",
+            "imageUrl":"http://fdfs.xmcdn.com/group14/M03/06/9F/wKgDY1bFaify4osAAADtk9VhGbs279.jpg",
+            "mpUrl":"",
+            "mpPassword":"",
+            "mpWord":"",
+            },
+            {
+            "albumId":"260769",
+            "albumName":"程一电台",
+            "albumDesc":"倾听你的情感故事",
+            "imageUrl":"http://fdfs.xmcdn.com/group31/M07/74/64/wKgJSVmRQmbwKhXtAAWv0RoYhos207_mobile_large.png",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"012345",
+            "mpWord":"测试",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"喜马拉雅FM",
+            "appImageUrl":"http://is2.mzstatic.com/image/thumb/Purple118/v4/41/d2/25/41d225e2-6bc1-ff34-b814-5161433381b5/source/200x200bb.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838",
+            "desc":"最大的有声图书馆",
+            },
+            {
+            "appName":"荔枝FM",
+            "appImageUrl":"http://is1.mzstatic.com/image/thumb/Purple118/v4/85/48/53/85485383-ddde-d9e9-18fa-ee91fa835c1d/source/200x200bb.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id1093693053",
+            "desc":"人人都是主播",
+            },
+            ],
+}
+
+
+

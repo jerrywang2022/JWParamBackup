@@ -1,0 +1,27 @@
+{
+    "albumIds":[{
+            "albumId":"3475911",
+            "albumName":"观复嘟嘟",
+            "albumDesc":"马未都网络脱口秀",
+            "imageUrl":"http://fdfs.xmcdn.com/group12/M08/71/96/wKgDXFc-qmaAaKXUAAD-MKT4L54672_large_pop.jpg",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"012345",
+            "mpWord":"测试",
+            },
+            {
+            "albumId":"3671949",
+            "albumName":"观复锵锵",
+            "albumDesc":"马未都网络脱口秀",
+            "imageUrl":"http://fdfs.xmcdn.com/group12/M0A/29/B2/wKgDW1bwvS_BhXTwAAS5h0Y4dhg944_large_pop.png",
+            "mpUrl":"https://wmpics.pics/di-7QSW.jpg",
+            "mpPassword":"123450",
+            "mpWord":"测试",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"夜听",
+            "appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",
+            "desc":"最好玩的app",
+            }],
+}

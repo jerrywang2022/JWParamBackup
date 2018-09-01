@@ -1,0 +1,27 @@
+{
+    "albumIds":[{
+            "albumId":"260769",
+            "albumName":"程一电台",
+            "albumDesc":"倾听你的情感故事",
+            "imageUrl":"http://fdfs.xmcdn.com/group31/M07/74/64/wKgJSVmRQmbwKhXtAAWv0RoYhos207_mobile_large.png",
+            "mpUrl":"https://image.ibb.co/juKXM5/qrcode_for_gh_078318fde269_344.jpg",
+            "mpPassword":"012345",
+            "mpWord":"测试",
+            },
+            {
+            "albumId":"321787",
+            "albumName":"一个人听",
+            "albumDesc":"素未谋面，谢谢你，愿意听我",
+            "imageUrl":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+            "mpUrl":"https://wmpics.pics/di-7QSW.jpg",
+            "mpPassword":"123450",
+            "mpWord":"测试",
+            }],
+    "switch":"NO",
+    "appIds":[{
+            "appName":"夜听",
+            "appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",
+            "desc":"最好玩的app",
+            }],
+}

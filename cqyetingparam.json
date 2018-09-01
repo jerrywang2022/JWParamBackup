@@ -1,0 +1,30 @@
+{
+    "albumIds":[{
+            "albumId":"3062741",
+            "albumName":"夜听",
+            "albumDesc":"夜听，让更多的家庭越来越幸福",
+            "imageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/hugC3d/wuyeqingting.jpg",
+            "mpPassword":"123",
+            "mpWord":"请关注公众号<午夜倾听FM> 输入<验证>解锁夜听节目验证码",
+            "purchaseSwitch":"NO"
+            },
+            {
+            "albumId":"321787",
+            "albumName":"一个人听",
+            "albumDesc":"素未谋面，谢谢你，愿意听我",
+            "imageUrl":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+            "mpUrl":"https://image.ibb.co/dojqZw/yigeren.jpg",
+            "mpPassword":"456",
+            "mpWord":"请关注公众号<蕊希一个人听>输入<验证>解锁一个人听节目验证码",
+            "purchaseSwitch":"NO"
+            }],
+    "switch":"NO",
+    "ErrorCode":"012",
+    "appIds":[{
+            "appName":"夜听",
+            "appImageUrl":"http://fdfs.xmcdn.com/group8/M0A/84/7C/wKgDYVYdu8SCYuVmAACtQo3lZK8913_mobile_large.jpg",
+            "appUrl":"https://itunes.apple.com/cn/app/id876336838?mt=8",
+            "desc":"最好玩的app",
+            }],
+}
